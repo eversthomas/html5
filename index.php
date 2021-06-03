@@ -1,17 +1,26 @@
-
-<!doctype html>
-<html lang="de-DE">
+<!DOCTYPE html>
+<html lang="de-DE" class="no-js">
 	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="profile" href="https://gmpg.org/xfn/11">
-		
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="320" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
+		<meta http-equiv="cleartype" content="on" />
 		<title></title>
-		
-		<meta name='robots' content='max-image-preview:large' />
-		
-		<link rel='stylesheet' href=' ' media='all' />
-		<meta name="generator" content="WordPress 5.7.2" />
+		<meta name="description" content=" " />
+		<link rel="canonical" href=" " />
+		<link rel="apple-touch-icon" sizes="180x180" href=" " />
+		<link rel="icon" type="image/png" sizes="32x32" href=" " />
+		<link rel="icon" type="image/png" sizes="16x16" href=" " />
+		<link rel="manifest" href=" " />
+		<link rel="mask-icon" href=" " color="#147c85" />
+		<meta name="apple-mobile-web-app-title" content=" " />
+		<meta name="application-name" content=" " />
+		<meta name="msapplication-TileColor" content="#ffffff" />
+		<meta name="theme-color" content="#ffffff" />
+
+	    	<link rel='stylesheet' href=' ' media='all' />
 	</head>
 	
 	<body class="">
